@@ -262,7 +262,7 @@ Retrieve results of a previous run.
 
 ---
 
-## 👩 Author
+## Author
 
 **Varsha Anbumani**   
 2025  
